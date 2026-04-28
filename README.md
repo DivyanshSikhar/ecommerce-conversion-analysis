@@ -74,7 +74,8 @@ Key findings:
 
 These findings suggest that acquisition quality and purchase intent vary substantially across channels.
 
-![Traffic Source Conversion](visuals/traffic source conversion.png)
+![Channel Conversion](visuals/traffic_source_conversion.png)
+
 ---
 
 ## 3. Device Behavior
@@ -83,7 +84,7 @@ Desktop users converted significantly better than mobile users.
 
 Mobile devices generated a substantial share of sessions but disproportionately few purchases, suggesting potential friction in the mobile purchase journey.
 
-![Device Conversion](visuals/device conversion.png)
+![Device Conversion](visuals/device_conversion.png)
 
 ---
 
@@ -104,7 +105,7 @@ Conversion rates increased dramatically with user engagement depth.
 
 Higher engagement was strongly associated with conversion likelihood, although engagement itself should not necessarily be interpreted as causal.
 
-![Engagement Conversion](visuals/engagement conversion.png)
+![Engagement Conversion](visuals/engagement_conversion.png)
 
 ---
 
@@ -127,7 +128,7 @@ Conversion performance varied substantially across acquisition cohorts.
 
 Daily cohort conversion rates ranged from below 1% to nearly 3%, indicating meaningful differences in acquisition quality and user intent over time.
 
-![Cohort Trend](visuals/cohort trend.png)
+![Cohort Trend](visuals/cohort_trend.png)
 
 ---
 
