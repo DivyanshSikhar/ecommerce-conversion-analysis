@@ -55,8 +55,8 @@ The dataset contains anonymized Google Analytics 360 session-level e-commerce da
 
 ## 1. Conversion Funnel
 
-- Total sessions analyzed: 74,368
-- Purchasing sessions: 1,074
+- Total sessions analyzed: 71,812
+- Purchasing sessions: 1,031
 - Session conversion rate: 1.44%
 
 The overall conversion rate reflects typical e-commerce browsing behavior, where the majority of sessions do not result in immediate purchases.
@@ -90,8 +90,8 @@ Mobile devices generated a substantial share of sessions but disproportionately 
 
 ## 4. User-Level Behavior
 
-- Total unique users: 60,523
-- Purchasing users: 1,000
+- Total unique users: 58,569
+- Purchasing users: 964
 - User conversion rate: 1.65%
 - Average sessions per user: 1.23
 
@@ -113,7 +113,7 @@ Higher engagement was strongly associated with conversion likelihood, although e
 
 Purchasing users took an average of:
 
-- 48.44 hours
+- 44.79 hours
 - (~2 days)
 
 between first recorded visit and first purchase.
@@ -155,6 +155,22 @@ Users demonstrated limited repeat visitation behavior, suggesting that early int
 Conversion rates varied substantially across acquisition cohorts, indicating differences in traffic quality and user intent over time. Continuous cohort monitoring can help identify high-performing campaigns and acquisition periods.
 
 ---
+
+## Power BI Dashboard
+
+This analysis was extended into an interactive dashboard built in Power BI.
+
+Key features:
+- Conversion KPI overview
+- Traffic source performance
+- Device-level analysis
+- Engagement-driven conversion insights
+- Cohort conversion trends
+
+Download:
+- [Power BI File](dashboard/ecommerce_dashboard.pbix)
+- [Dashboard PDF](dashboard/dashboard.pdf)
+
 
 # Key Skills Demonstrated
 
